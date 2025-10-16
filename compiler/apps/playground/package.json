@@ -23,7 +23,7 @@
     "@babel/plugin-transform-modules-commonjs": "^7.18.9",
     "@babel/preset-react": "^7.18.9",
     "@babel/preset-typescript": "^7.26.0",
-    "@babel/traverse": "^7.18.9",
+    "@babel/traverse": "^7.28.4",
     "@babel/types": "7.26.3",
     "@heroicons/react": "^1.0.6",
     "@monaco-editor/react": "^4.4.6",
